@@ -1,0 +1,7 @@
+2021/10/26-22:27:08.194 21d0f Reusing MANIFEST /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_pixelplanet.fun_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/26-22:27:08.199 21d0f Recovering log #3
+2021/10/26-22:27:08.596 21d0f Reusing old log /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_pixelplanet.fun_0.indexeddb.leveldb/000003.log 
+2021/10/27-00:07:06.131 21c5b Level-0 table #5: started
+2021/10/27-00:07:06.820 21c5b Level-0 table #5: 512480 bytes OK
+2021/10/27-00:07:07.465 21c5b Delete type=0 #3
+2021/10/27-00:07:07.695 21c5b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

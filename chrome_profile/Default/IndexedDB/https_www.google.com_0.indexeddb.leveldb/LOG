@@ -1,0 +1,6 @@
+2021/05/14-22:49:07.530 4db1f Creating DB /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb since it was missing.
+2021/05/14-22:49:09.677 4db1f Reusing MANIFEST /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/14-22:50:03.274 5cb07 Level-0 table #5: started
+2021/05/14-22:50:03.383 5cb07 Level-0 table #5: 1204 bytes OK
+2021/05/14-22:50:03.538 5cb07 Delete type=0 #3
+2021/05/14-22:50:03.539 5cb07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/05/04-22:53:35.322 909b Reusing MANIFEST /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_aliexpress.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/04-22:53:35.322 909b Recovering log #7
+2021/05/04-22:53:35.322 909b Reusing old log /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_aliexpress.ru_0.indexeddb.leveldb/000007.log 
+2021/05/04-22:53:46.912 1613 Level-0 table #12: started
+2021/05/04-22:53:46.997 1613 Level-0 table #12: 6430 bytes OK
+2021/05/04-22:53:47.253 1613 Delete type=0 #7
+2021/05/04-22:53:47.263 1613 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/04-22:53:47.263 1613 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x004\x006\x005\x009\x006\x002\x002\x008\x009\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x00f\x00b\x002\x005\x00c\x00f\x008\x00c\x000\x009\x009\x008\x009\x002\x006\x007\x002\x00b\x00f\x001\x003' @ 266 : 1
+2021/05/04-22:53:47.263 1613 Compacting 1@1 + 1@2 files
+2021/05/04-22:53:47.353 1613 Generated table #13@1: 51 keys, 3542 bytes
+2021/05/04-22:53:47.353 1613 Compacted 1@1 + 1@2 files => 3542 bytes
+2021/05/04-22:53:47.566 1613 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/04-22:53:47.577 1613 Delete type=2 #12
+2021/05/04-22:53:47.577 1613 Delete type=2 #9
+2021/05/04-22:53:47.578 1613 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x004\x006\x005\x009\x006\x002\x002\x008\x009\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x00f\x00b\x002\x005\x00c\x00f\x008\x00c\x000\x009\x009\x008\x009\x002\x006\x007\x002\x00b\x00f\x001\x003' @ 266 : 1 .. (end); will stop at (end)

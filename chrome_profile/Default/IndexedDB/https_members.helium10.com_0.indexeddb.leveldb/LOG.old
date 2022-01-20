@@ -1,0 +1,7 @@
+2021/05/16-02:38:44.290 19733 Reusing MANIFEST /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_members.helium10.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/16-02:38:44.290 19733 Recovering log #3
+2021/05/16-02:38:44.457 19733 Reusing old log /Users/ballmerpeak/Library/Application Support/Google/Chrome/Default/IndexedDB/https_members.helium10.com_0.indexeddb.leveldb/000003.log 
+2021/05/16-02:39:38.393 22643 Level-0 table #5: started
+2021/05/16-02:39:38.802 22643 Level-0 table #5: 4578 bytes OK
+2021/05/16-02:39:40.714 22643 Delete type=0 #3
+2021/05/16-02:39:40.714 22643 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
